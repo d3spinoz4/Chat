@@ -1,4 +1,4 @@
-Python & React WebRTC
+# Python & React WebRTC
 
 For python signaling server install requirements and run app.py
 
